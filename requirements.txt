@@ -16,7 +16,7 @@ kiwisolver==1.1.0
 Logbook==1.5.3
 MarkupSafe==1.1.1
 matplotlib==3.2.1
-numpy==1.18.2
+numpy==1.22.0
 pandas==1.0.3
 pymongo==3.10.1
 pyparsing==2.4.6
